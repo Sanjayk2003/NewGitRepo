@@ -19,6 +19,8 @@ jobs:
         echo "May name is ${{ env.name }}"
         echo  "thank you"
       
+    env:
+      name: "Santhanam"
       
     
      
